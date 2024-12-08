@@ -6,7 +6,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-API_KEY = 'ENTER_YOUR_API_KEY_HERE'
+API_KEY = '27a39f8d1c11601a0991aade6d4415b4'
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 def get_weather_data(city, api_key):
@@ -58,7 +58,9 @@ def on_search_button_click(city_entry, result_label, temp_label, icon_label):
 def create_gui():
     window = tk.Tk()
     window.title("Weather App")
-    window.geometry("650x650")
+    window.geometry("476x620")
+    window.resizable(False, False)
+
     window.config(padx=30, pady=30, bg="black")
 
     title_label = ttk.Label(window, text="Weather Forecast", font=("Garamond", 36, "bold"), foreground="white", background="black")
