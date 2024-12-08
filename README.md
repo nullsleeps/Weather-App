@@ -1,5 +1,6 @@
 # Weather App
 `---------------------------------------------------------------------------------------------`
+
 ***This project is a Weather Application built using Python and the Tkinter library to provide a modern graphical user interface (GUI). The application retrieves and displays weather information such as temperature, weather conditions, and an icon representing the current weather in a given city. The app uses the OpenWeatherMap API to fetch weather data and displays it in an intuitive, easy-to-use interface.***
 
 `---------------------------------------------------------------------------------------------`
