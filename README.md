@@ -80,30 +80,30 @@ python Weather.py
 
 `---------------------------------------------------------------------------------------------`
 
-**Features**
+***Features***
 
 
-**1.** ***Real-time Weather Data:***
+**1.** **Real-time Weather Data:**
 
 `Fetches and displays current weather conditions including temperature (in Celsius) and weather description (e.g., sunny, cloudy, rainy, etc.).`
 
 
-**2.** ***Weather Icon:***
+**2.** **Weather Icon:**
 
 `Displays a dynamic weather icon based on the current conditions in the city.`
 
 
-**3.** ***Search Functionality:***
+**3.** **Search Functionality:**
 
 `Users can enter any city name to get live weather updates.`
 
 
-**4.** ***User-friendly Interface:***
+**4.** **User-friendly Interface:**
 
 `Simple and intuitive GUI built with Tkinter, making it easy for anyone to check the weather with just a few clicks.`
 
 
-**5.** ***Error Handling:***
+**5.** **Error Handling:**
 
 `Provides clear error messages when there’s an issue with the city name (e.g., city not found or API error).`
 
