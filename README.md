@@ -25,12 +25,14 @@ git clone https://github.com/nullsleeps/Weather-App.git
 cd weather-app
 ```
 
-***From Giithub***
+
+***From Github***
 
 *Go to the top of the page and click on code, Then download ZIP*
 
 *Extract the folder and open CMD in that folder*
 
+`---------------------------------------------------------------------------------------------`
 
 **Get Your OpenWeatherMap API Key:**
 
