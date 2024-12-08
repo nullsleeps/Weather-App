@@ -52,9 +52,9 @@ API_KEY = 'ENTER_YOUR_API_KEY_HERE'
 
 *Once the dependencies are installed and the API key is set up, run the application:*
 ```bash
-python weather_app.py
+python Weather.py
 ```
-`The GUI window will open, and you can enter a city name to get the current weather.`
+`A GUI window will open, and you can enter a city name to get the current weather.`
 
 `---------------------------------------------------------------------------------------------`
 
